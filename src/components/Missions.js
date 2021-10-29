@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import Title from './Title';
-import missions from './Missions';
 
 class Missions extends Component {
   render() {
