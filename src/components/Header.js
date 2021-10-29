@@ -9,5 +9,5 @@ class Header extends Component {
     );
   }
 }
-
+// Com ajuda de Fumagalli e Brunão
 export default Header;
